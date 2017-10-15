@@ -55,3 +55,5 @@ Menu System
 ** Storage navigation
 
 
+http://www.instructables.com/id/Turn-your-Raspberry-Pi-into-a-Portable-Bluetooth-A/
+http://ghostwriter.wikia.com/wiki/Install_Bluetooth_speakers_on_Raspberry_Pi
