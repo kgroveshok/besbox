@@ -1,4 +1,4 @@
-besbox
+7besbox
 ------
 
 Based on old mini-itx project from around 2001. This time aimed at raspberry pi for deployment in headless mode for campervans etc.
@@ -27,6 +27,7 @@ icecast?
 webserver?
 usb storage?
 flite
+sqlite
 
 Default Controls
 ----------------
